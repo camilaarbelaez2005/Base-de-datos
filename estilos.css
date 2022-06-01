@@ -2,3 +2,32 @@
     font-family: 'Rubik', sans-serif;
     text-align: justify;
 }
+header nav a img {
+    border-radius: 50%;
+}
+.color{
+ background-color: #f7a942;
+}
+.titulo{
+    color: red;
+}
+.img{
+    height: 300px;
+    width: 200px;
+}
+.foto{
+    height: 550px;
+
+}
+.fondo{
+    background-color: rgb(204,51,51);
+}
+.titulos{
+    text-align: center;
+}
+ .Preescolar {
+    height: 300px;
+}
+.fondo2{
+    background-color: rgb(247,169,66);
+}
